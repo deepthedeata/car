@@ -18,6 +18,3 @@ urllib3==1.25.9
 Werkzeug==1.0.1
 wincertstore==0.2
 gunicorn
-sudo yum -y install gcc gcc-c++ kernel-devel
-sudo yum -y install python-devel libxslt-devel libffi-devel openssl-devel
-pip install cryptography
